@@ -1,0 +1,42 @@
+_repo: The-Young-and-Field-Literary-Readers-Book-2_38412
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barney, Maginel Wright
+    aliases:
+    - Wright, Margaret Ellen
+    - Enright, Maginel Wright
+    birthdate: 1877
+    deathdate: 1966
+    gutenberg_agent_id: '35429'
+    url: http://www.gutenberg.org/2009/agents/35429
+    wikipedia: http://en.wikipedia.org/wiki/Maginel_Wright_Enright
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Field, Walter Taylor
+    birthdate: 1861
+    deathdate: 1939
+    gutenberg_agent_id: '39450'
+    url: http://www.gutenberg.org/2009/agents/39450
+  - agent_name: Young, Ella Flagg
+    birthdate: 1845
+    deathdate: 1918
+    gutenberg_agent_id: '39449'
+    url: http://www.gutenberg.org/2009/agents/39449
+description: ''
+gutenberg_issued: '2011-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+title: The Young and Field Literary Readers, Book 2
+url: http://www.gutenberg.org/ebooks/38412
